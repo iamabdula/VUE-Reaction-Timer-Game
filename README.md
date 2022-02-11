@@ -22,3 +22,8 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+#### Reference:
+ Reference was taken from Net Ninga Vue 3 Course.
+
+
